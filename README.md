@@ -1,0 +1,2 @@
+# MastodonUpdateScript
+Non-Docker環境でMastodonアプデ時に使用するスクリプトです。
